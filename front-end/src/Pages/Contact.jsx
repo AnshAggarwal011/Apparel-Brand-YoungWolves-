@@ -14,9 +14,9 @@ const Contact = () => {
         <img className='w-full md:max-w-[480px]' src={assets.contact_img} alt="" />
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-xl text-gray-600'>Our Store</p>
-          <p className='text-gray-500'>679B, Sri sai bhavanam,<br /> Kamarajapuram Colony, <br /> Sivakasi, Virudhunagar, <br />TamilNadu - 626189.</p>
-          <p className='text-gray-500'>Tel: (+91) 979174560 <br/> Email : hemapriya2000mdu@gmail.com</p>
-          <p className='font-semibold text-xl text-gray-600'>Careers at HP Creation</p>
+          <p className='text-gray-500'>Shop No. 123, VC Tower,<br /> GMS Road, <br /> Dehradun <br />UttaraKhand - 248001.</p>
+          <p className='text-gray-500'>Tel: (+91) 8077236230 <br/> Email : youngwolves@gmail.com</p>
+          <p className='font-semibold text-xl text-gray-600'>Careers at YoungWolves</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
           <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Explore jobs</button>
         </div>
