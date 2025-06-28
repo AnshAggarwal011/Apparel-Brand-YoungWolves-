@@ -23,14 +23,12 @@ YoungWolves is a full-featured e-commerce web application built using the **MERN
 | **Redux**  | Centralized app state management |
 | **Razorpay API** | Payment processing         |
 
-## 📂 Folder Structure
 
 
 ## ⚙️ Getting Started
 
 ### 1. Clone the repo
 
-```bash````
 git clone https://github.com/AnshAggarwal011/Apparel-Brand-YoungWolves-.git
 cd Apparel-Brand-YoungWolves-
 
@@ -38,8 +36,6 @@ cd Apparel-Brand-YoungWolves-
 cd back-end
 npm install
 node ./server.js
-
-
 
 #######   2.Frontend Setup
 
