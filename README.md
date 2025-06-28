@@ -27,17 +27,19 @@ YoungWolves is a full-featured e-commerce web application built using the **MERN
 
 ## ⚙️ Getting Started
 
-### 1. Clone the repo
+### 1. Clone the Repository
 
+```bash
 git clone https://github.com/AnshAggarwal011/Apparel-Brand-YoungWolves-.git
 cd Apparel-Brand-YoungWolves-
 
-#######    1. Backend Setup
+1. Backend Setup
 cd back-end
 npm install
 node ./server.js
 
-#######   2.Frontend Setup
+
+2.Frontend Setup
 
 cd front-end
 npm install
